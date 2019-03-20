@@ -3,11 +3,25 @@ header {
 }
 .content {
   float: left;
+  width: 80%;
 }
 
 .before, .during, .after {
   width: 32%;
   float: left;
+  margin: 6px;
+}
+
+.before {
+  background-color: seashell;
+}
+
+.during {
+  background-color: aliceblue;
+}
+
+.after {
+  background-color: cornflowerblue;
 }
 
 img {
