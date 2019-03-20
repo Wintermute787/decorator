@@ -1,0 +1,21 @@
+header {
+  text-align: center;
+}
+.content {
+  float: left;
+}
+
+.before, .during, .after {
+  width: 32%;
+  float: left;
+}
+
+img {
+  margin: 5px;
+  padding: 5px;
+}
+
+.sidebar {
+  width: 200px;
+  float: right;
+}
